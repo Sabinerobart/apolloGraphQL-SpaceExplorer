@@ -1,1 +1,3 @@
-# SpaceExplorer---apolloGraphQL_tuto
+# SpaceExplorer
+
+## Apollo-GraphQL tutorial
